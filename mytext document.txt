@@ -1,0 +1,8 @@
+Color Scheme
+BEB4B4 - Primary BackGround
+485Ead - Item BackGround
+f6a3A3-Highlight Background
+Product Page
+https://www.figma.com/file/iFvbKbLQN1bdcKW3cL0koi/Dana's-Website
+CheckOut Page
+https://www.figma.com/file/c5uAK0ZTAOIt4Zyv4P8KQr/Dana's-web-page?node-id=0%3A1
